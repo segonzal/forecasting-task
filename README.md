@@ -67,6 +67,7 @@ Prepare a concise report (max 5 pages) summarizing your methodology, key finding
 
 Some papers you may find useful:
 - https://www.mdpi.com/2072-4292/13/4/675
+- https://sp.copernicus.org/articles/1-osr7/5/2023/
 
 ## Evaluation Criteria
 
