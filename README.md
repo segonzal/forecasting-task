@@ -69,6 +69,7 @@ Some papers you may find useful:
 - https://www.mdpi.com/2072-4292/13/4/675
 - https://sp.copernicus.org/articles/1-osr7/5/2023/
 - https://www.sciencedirect.com/science/article/abs/pii/S0377026523000568
+- https://www.mdpi.com/2072-4292/14/21/5461
 
 ## Evaluation Criteria
 
