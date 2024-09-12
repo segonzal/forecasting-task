@@ -2,7 +2,7 @@
 
 This task is designed to assess your skills in data analysis, image processing, and deriving insights from environmental data. You will be working with a dataset of chlorophyll satellite images to extract useful information and present your findings. As context, chlorophyll is a pigment found in phytoplankton, microscopic organisms that form the base of the marine food web. By analyzing chlorophyll concentrations in ocean waters, scientists can gain valuable insights into marine ecosystems, nutrient cycling, and overall ocean health. These insights are crucial for our clients in desalination, fisheries, and marine conservation.
 
-Our goal with this task is your expertise to analyze and interpret remote sensing data. Also, even though it is not mandatory, we encourage you to modelate and forecast the chlorophyll concentration in the ocean waters (on the image or time series domain). Feel free to formulate the problem as you wish.
+Our goal with this task is to assess your expertise to analyze and interpret remote sensing data. Also, even though it is not mandatory, we encourage you to modelate and forecast the chlorophyll concentration in the ocean waters (on the image or time series domain). Feel free to formulate the problem as you wish.
 
 ## Dataset
 
