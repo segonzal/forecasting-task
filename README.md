@@ -32,7 +32,9 @@ For a more localized analysis, you can focus on a specific region around the coo
 
 ## Task Requirements
 
-To complete this task, please use Python, Jupyter Notebooks, and xarray for data analysis. You are free to use any additional libraries or tools you find necessary. Your analysis should cover the following aspects:
+To complete this task, please use Python, Jupyter Notebooks, and xarray for data analysis. You are free to use any additional libraries or tools you find necessary. Please, focus on the quality of your analysis and the clarity of your findings, more than on the need to complete all the requirements.
+
+Your analysis should cover the following aspects:
 
 ### Data Loading and Preprocessing
 
@@ -48,20 +50,23 @@ Analyze how chlorophyll concentrations change over time. Detect any seasonal pat
 
 ### Spatial Analysis
 
-Investigate spatial patterns in chlorophyll concentrations. Identify areas of consistently high or low chlorophyll levels.
+Investigate spatial patterns in chlorophyll concentrations. Identify areas of consistently high or low chlorophyll levels in bays, channels or coastal areas.
 
 ### Correlation with Environmental Factors
 
-If provided, analyze how chlorophyll levels correlate with other environmental data (e.g., sea surface temperature).
+If provided, analyze how chlorophyll levels correlate with other environmental data (e.g., sea surface temperature). You are invited to use any other environmental variable like wind or ocean currents.
 
 ### Insight Generation
 
-Based on your analysis, what insights can you derive about marine productivity, ecosystem health, or potential environmental changes?
+Based on your analysis, what insights can you derive about phytoplankton productivity? Can you describe any potential environmental threat’s like red tides?.
 
 ### Visualization and Reporting
 
 Create clear, informative visualizations to support your findings.
 Prepare a concise report (max 5 pages) summarizing your methodology, key findings, and conclusions.
+
+Some papers you may find useful:
+- https://www.mdpi.com/2072-4292/13/4/675
 
 ## Evaluation Criteria
 
