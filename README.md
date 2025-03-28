@@ -88,7 +88,7 @@ Submit your code (with comments) in a Jupyter notebook. Include your report as a
 
 ## Timeline
 
-- Task Release Date: 2024-09-12 12:00.
-- Submission Deadline: 2024-09-27 12:00.
+- Task Release Date: 2025-03-31 12:00.
+- Submission Deadline: 2025-04-07 12:00.
 
 Good luck! We look forward to seeing your innovative approaches and insights.
